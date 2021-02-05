@@ -4,7 +4,6 @@ from slash import SlashCommand, slash_command, slash_option, slash_cooldown
 import discord
 import os
 import yaml
-# Todo: on_role_name_update, on_category_name_update, on_faction_name_update
 
 
 MESSAGE = discord.InteractionResponseType.channel_message
