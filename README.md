@@ -1,6 +1,6 @@
 # Helfervogel
 
-A discord bot using discords new slash-commands for servers that I like. Command feedback is written in german.
+A bot using discords slash-commands. Command feedback is written in german.
 
 **This bot uses an unofficial discord.py fork:**
 
